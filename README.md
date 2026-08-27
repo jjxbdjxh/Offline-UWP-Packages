@@ -5,6 +5,7 @@ Windows 10 LTSC 一键离线安装包：包含照片 (Photos) 和电影与电视
 1. 点击右侧 **Releases**，下载最新版里的 `Microsoft.Windows.Photos...AppxBundle` 文件。
 2. 将下载好的文件放入本仓库的 `Appxs` 文件夹中。
 3. 右键点击 `Install.ps1`，选择“使用 PowerShell 运行”，等待脚本自动安装完成。
+注：点击链接“https://github.com/jjxbdjxh/Offline-UWP-Packages/releases/tag/v1.0”即可
 
 ## 注意：
 请在 Windows 10 LTSC 1809 或更高版本上运行。
